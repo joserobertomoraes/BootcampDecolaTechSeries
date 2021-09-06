@@ -1,0 +1,16 @@
+C:\Users\joser\Downloads\ProjetoDecolaSeries\obj\Debug\net5.0\ProjetoDecolaSeries.csproj.AssemblyReference.cache
+C:\Users\joser\Downloads\ProjetoDecolaSeries\obj\Debug\net5.0\ProjetoDecolaSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joser\Downloads\ProjetoDecolaSeries\obj\Debug\net5.0\ProjetoDecolaSeries.AssemblyInfoInputs.cache
+C:\Users\joser\Downloads\ProjetoDecolaSeries\obj\Debug\net5.0\ProjetoDecolaSeries.AssemblyInfo.cs
+C:\Users\joser\Downloads\ProjetoDecolaSeries\obj\Debug\net5.0\ProjetoDecolaSeries.csproj.CoreCompileInputs.cache
+C:\Users\joser\Downloads\ProjetoDecolaSeries\bin\Debug\net5.0\ProjetoDecolaSeries.exe
+C:\Users\joser\Downloads\ProjetoDecolaSeries\bin\Debug\net5.0\ProjetoDecolaSeries.deps.json
+C:\Users\joser\Downloads\ProjetoDecolaSeries\bin\Debug\net5.0\ProjetoDecolaSeries.runtimeconfig.json
+C:\Users\joser\Downloads\ProjetoDecolaSeries\bin\Debug\net5.0\ProjetoDecolaSeries.runtimeconfig.dev.json
+C:\Users\joser\Downloads\ProjetoDecolaSeries\bin\Debug\net5.0\ProjetoDecolaSeries.dll
+C:\Users\joser\Downloads\ProjetoDecolaSeries\bin\Debug\net5.0\ref\ProjetoDecolaSeries.dll
+C:\Users\joser\Downloads\ProjetoDecolaSeries\bin\Debug\net5.0\ProjetoDecolaSeries.pdb
+C:\Users\joser\Downloads\ProjetoDecolaSeries\obj\Debug\net5.0\ProjetoDecolaSeries.dll
+C:\Users\joser\Downloads\ProjetoDecolaSeries\obj\Debug\net5.0\ref\ProjetoDecolaSeries.dll
+C:\Users\joser\Downloads\ProjetoDecolaSeries\obj\Debug\net5.0\ProjetoDecolaSeries.pdb
+C:\Users\joser\Downloads\ProjetoDecolaSeries\obj\Debug\net5.0\ProjetoDecolaSeries.genruntimeconfig.cache
